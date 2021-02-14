@@ -1,0 +1,25 @@
+[r[m[2J[H[?7h[?1;4;6l[4l[?1h=[0m(B[1;25r[H[2J[H[2J[37m[44m Gentoo Linux support | Can't speak? /j #gentoo-ops | Channels: http://xrl.us/kf
+[39m[49m14:16 [1m[30m<[C[0mRaoul_Duke[1m[30m>[C[0mI can force it to use something entirely different, but[55D
+then I can't insmod the resulting driver so there's no use
+14:16 [1m[34m-[37m![34m-[C[36mmmirko[C[30m[[0m[36mn=mmirko@devel.fisica.unipg.it[1m[30m][C[0mhas joined [1m#gentoo
+[0m14:17 [1m[30m<[C[0mhkBst[1m[30m>[C[0mRaoul_Duke: I mean r1000
+14:17 [1m[30m<[C[0mRaoul_Duke[1m[30m>[C[0mno
+14:17 [1m[34m-[37m![34m-[C[0m[36mExecuter[C[1m[30m[[0mn=snappy@207-255-27-117-dhcp.det.pa.atlanticbb.net[1m[30m][C[0mhas[65D
+quit [1m[30m[[0mRemote closed the connection[1m[30m]
+[0m14:17 [1m[30m<[C[0mhkBst[1m[30m>[C[0mRaoul_Duke: which one?
+14:17 [1m[30m<[C[0mchub[1m[30m>[C[0mrecu: whit iptables on gentoo, but i never use
+14:17 [1m[30m<[C[0mPilot[1m[30m>[C[0mdragonheart: I just checked portage and found gspcav1 in the[60D
+tree.  Unmasked and emerged, checking now.
+14:18 [1m[34m-[37m![34m-[C[0m[36mkeikoz[C[1m[30m[[0mn=keikoz@pha75-12-82-245-84-46.fbx.proxad.net[1m[30m][C[0mhas quit[63D
+[1m[30m[[0m"Leaving"[1m[30m]
+[0m14:18 [1m[30m<[0m+dragonheart[1m[30m>[C[0mPilot: media-video/gspca is the newer version
+14:18 [1m[34m-[37m![34m-[C[36mTomboy[C[30m[[0m[36mn=Tomboy@e179028172.adsl.alicedsl.de[1m[30m][C[0mhas joined [1m#gentoo
+[0m14:18 [1m[34m-[37m![34m-[C[36mbuchan[C[30m[[0m[36mn=buchan@unaffiliated/buchan[1m[30m][C[0mhas joined [1m#gentoo
+[0m14:18 [1m[34m-[37m![34m-[C[36mkornkreismuster[C[30m[[0m[36mn=nick@ppp-82-135-65-24.dynamic.mnet-online.de[1m[30m][C[0mhas[68D
+joined [1m#gentoo
+[0m14:18 [1m[30m<[C[0mkornkreismuster[1m[30m>[C[0mHi!
+14:18 [1m[34m-[37m![34m-[C[36mhydrian[C[30m[[0m[36mn=hydrian@c-67-189-141-195.hsd1.ny.comcast.net[1m[30m][C[0mhas joined[67D
+[1m#gentoo
+[0m14:18 [1m[34m-[37m![34m-[C[36mVeSCeRa[C[30m[[0m[36mn=root@88.234.119.65[1m[30m][C[0mhas joined [1m#gentoo
+[0m[37m[44m [36m[[37m14:18[36m][37m [36m[[37m_|Nix|_([36m+[37mei)[36m][37m [36m[[37m3:#gentoo([36m+[37mJLPQcfgnst 5,10 #gentoo-unregister [36m[[37mAct: [36m1][37m 
+[39m[49m[#gentoo] [24;1H

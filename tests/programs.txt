@@ -1,0 +1,8 @@
+mc              : Untraceable weirdness with the exit dialog
+links
+alsaconf
+pico
+centericq       : Can't figure out how to send "Enter"
+make menuconfig : Untraceable weirdness with drop shadow and exit dialog
+ntsysv
+screen+irssi    : Scrolling (./irssi-scrolling/)

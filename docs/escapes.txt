@@ -1,0 +1,8 @@
+[?1049h
+[?7h
+[?1h
+[?1001s "save mouse reporting flag"
+[?1001r "restore mouse reporting flag"
+[?1000h "set mouse reporting mode"
+[?1000l "clear mouse reporting mode"
+
